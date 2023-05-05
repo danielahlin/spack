@@ -10,7 +10,7 @@ from spack.package import *
 
 _versions = {
     # cuDNN 8.9.0
-    8.9.0.131-cuda12": {
+    "8.9.0.131-cuda12": {
         "Linux-x86_64": "477631002be61022b60961cba0a501271507a93f81d6b08384bc320cb8706c98",
         "Linux-ppc64le": "ff239e4cbbf21fa18104b62a887686e2197f820ad58817d62e509c735a331829",
         "Linux-aarch64": "0f09605e282dcf7f66eb3957c394c197e8b8a4d41635a880e217fc8d37342e0f",
